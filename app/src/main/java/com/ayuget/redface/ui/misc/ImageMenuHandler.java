@@ -37,7 +37,7 @@ import com.ayuget.redface.storage.StorageHelper;
 import com.ayuget.redface.ui.UIConstants;
 import com.ayuget.redface.ui.activity.BaseActivity;
 import com.ayuget.redface.ui.activity.ExifDetailsActivity;
-import com.tbruyelle.rxpermissions.RxPermissions;
+import com.tbruyelle.rxpermissions2.RxPermissions;
 
 import java.io.File;
 import java.io.IOException;
