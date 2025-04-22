@@ -126,7 +126,7 @@ dependencies {
 	implementation 'androidx.exifinterface:exifinterface:1.3.6'
 
 	// Deal with Android M new-style permissions
-	implementation 'com.tbruyelle.rxpermissions:rxpermissions:0.9.4@aar'
+	implementation 'com.github.tbruyelle:rxpermissions:0.10.2@aar'
 
 	// Test related dependencies
 	testImplementation('com.squareup.assertj:assertj-android:1.1.1') {
